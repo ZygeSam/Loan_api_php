@@ -1,0 +1,1 @@
+<?php $link = mysqli_connect('localhost','root','', 'cashtacm_demo') or die('Unable to Connect to Database');  ?>
